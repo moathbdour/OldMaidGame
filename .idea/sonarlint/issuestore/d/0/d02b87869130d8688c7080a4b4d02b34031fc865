@@ -1,0 +1,8 @@
+
+{
+java:S2142>"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ıÓî¸1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(®âşÿÿÿÿ8«Çó¸1
+`
+java:S1128">Remove this unused import 'org.jetbrains.annotations.NotNull'.(éš®ïøÿÿÿÿ8öÍ€¹1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8÷Í€¹1
